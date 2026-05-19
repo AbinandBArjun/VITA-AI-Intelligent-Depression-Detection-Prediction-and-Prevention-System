@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# AI model files
+*.pt
+*.pth
